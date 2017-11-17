@@ -1,10 +1,10 @@
 # react-typeahead
 A website for people who want to see the suggestions based on the letter they type in.
-#Usage
+# Usage
 ```
 $ node index.js
 ```
-#Use
+# Use
 * HTML5
 * CSS3
 * React
